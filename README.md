@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b1596579-cd51-41d5-bf64-261e48413f9a
+
 # interaction-spark-app-
 PURPOSE OF THE APP:
 The Interaction Spark App is an Android application designed to help users maintain their social connections throughout the day.
@@ -53,6 +57,9 @@ SCREENSHOTS:
 <img width="1080" height="2400" alt="Screenshot_20260330_232150" src="https://github.com/user-attachments/assets/2c35d802-ec14-44f4-a921-701d728e13ff" />
 <img width="1080" height="2400" alt="Screenshot_20260330_232129" src="https://github.com/user-attachments/assets/589f4415-3b96-4297-b738-299dbe1d6441" />
 <img width="1080" height="2400" alt="Screenshot_20260330_222044" src="https://github.com/user-attachments/assets/fb475075-0332-4824-bb1e-2e47379fa42f" />
+
+VIDEO LINK:
+https://youtube.com/shorts/CQK2PqO5JRA?feature=share
 
 AUTHOR
 Developed By: Kgopotso S Mohale
